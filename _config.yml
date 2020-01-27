@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yongfeng Li / Machine Learning Engineer & Data Scientist"
+title                    : "Yongfeng Li"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "Data Scientist/Machine Learning Engineer specialized in computer vision, data visualization, statistics/probability, and end-to-end ML/DL model development."
