@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "yongfeng_test01"
-  avatar           : "profile.png"
-  bio              : "Data Scientist/Machine Learning Engineer specialized in computer vision, data visualization, statistics/probability, and end-to-end ML/DL model development."
+  name             : "Yongfeng Li"
+  avatar           : "profile.jpg"
+  bio              : "Data Scientist/Machine Learning Engineer at Apple"
   location         : "Sunnyvale, California"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
